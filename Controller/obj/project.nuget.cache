@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uHrQeW4sAHL5b//7+AaQetwbEwxO841I1Z9w6giOdLYAwe1jqSlt/A6yTzpxpH+t8yzJDvyuQF/Z59B6Hf0w3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PontusHaglund\\source\\repos\\RestaurantPaymentSystem\\Controller\\Controller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PontusHaglund\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\PontusHaglund\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\PontusHaglund\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\PontusHaglund\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\PontusHaglund\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\PontusHaglund\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
